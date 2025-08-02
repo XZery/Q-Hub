@@ -1,1 +1,1 @@
-game.Players:WaitForChild("LocalPlayer"):Kick("Lol")
+game.Players:WaitForChild("LocalPlayer"):Kick("ควายC")
